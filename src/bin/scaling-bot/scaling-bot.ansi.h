@@ -11,10 +11,6 @@
 #define ANSI_RED                   "5"
 
 //! \def
-//! \brief Define color magenta as red.
-#define ANSI_MAGENTA               "1"
-
-//! \def
 //! \brief Define color green   as yellow.
 #define ANSI_GREEN                 "3"
 
@@ -25,3 +21,7 @@
 //! \def
 //! \brief Define color cyan    as blue.
 #define ANSI_CYAN                  "4"
+
+//! \def
+//! \brief Define color magenta as red.
+#define ANSI_MAGENTA               "1"
